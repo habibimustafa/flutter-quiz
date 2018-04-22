@@ -1,8 +1,8 @@
-# flutter_app
+# Flutter Quiz
 
-A new Flutter application.
+A Simple Flutter Quiz Application.
 
-## Getting Started
+## Tutorial
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+This application is created based on
+[this video](https://www.youtube.com/watch?v=jBBl1tYkUnE).
